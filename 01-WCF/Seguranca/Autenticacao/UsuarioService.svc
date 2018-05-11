@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true"  CodeBehind="UsuarioService.svc.cs" Service="MPSC.DomainDrivenDesign.Servicos.WCF.Seguranca.Autenticacao.UsuarioService" %>
